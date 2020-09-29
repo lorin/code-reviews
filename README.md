@@ -18,3 +18,7 @@ Note: this includes not just schema changes, but also changes to data being writ
 What happens during deployment when an old and a new version are both running at the same time? 
 
 What happens if this change is rolled back?
+
+## Operational concerns
+
+Do we need additional monitoring (logging, metrics)?
