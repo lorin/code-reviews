@@ -22,3 +22,14 @@ What happens if this change is rolled back?
 ## Operational concerns
 
 Do we need additional monitoring (logging, metrics)?
+
+## Robustness
+
+What happens if there are unexpected data inputs?
+
+## Other persectives
+
+* Readability
+* Maintainability
+* Testability
+* Performance
