@@ -27,7 +27,7 @@ Do we need additional monitoring (logging, metrics)?
 
 What happens if there are unexpected data inputs?
 
-## Other persectives
+## Other perspectives
 
 * Readability
 * Maintainability
