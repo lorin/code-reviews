@@ -6,7 +6,7 @@ Some notes on things to keep in mind during a code review.
 
 Can you articulate the problem that the PR addresses?
 
-Can you describe the solution in your own words?
+Could you explain the solution, in your own words, to someone else?
 
 ## Tests
 
