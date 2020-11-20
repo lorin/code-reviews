@@ -47,6 +47,10 @@ Things that aren't even worth bringing up.
 
 - unused imports
 
+## In the middle: spidey-sense tingling
+
+Some things may trip your radar, even if you can't explicitly articulate then. 
+
 ## Things to keep in mind
 
 ### Database impact 
