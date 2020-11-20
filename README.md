@@ -49,12 +49,20 @@ Things that don't matter at all
 
 ## Things to keep in mind
 
-### Database changes
+### Database impact 
+
+### Changes
+
 Note: this includes not just schema changes, but also changes to data being written to the database.
 
 What happens during deployment when an old and a new version are both running at the same time? 
 
 What happens if this change is rolled back?
+
+### Load
+
+Will this increase the load on the database or change behavior in some other way (e.g., creating
+many more rows, increased locking).
 
 ### Operational concerns
 
