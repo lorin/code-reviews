@@ -43,7 +43,7 @@ People code in different styles. Unless you find a flaw in the code, "I would ha
 
 ### Trivialities
 
-Things that don't matter at all
+Things that aren't even worth bringing up. 
 
 - unused imports
 
