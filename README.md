@@ -29,6 +29,12 @@ Is the overall implementation strategy sound? If not, what's wrong with it?
 
 Naming is hard, and hard to change. PR is a good time to provide feedback on that.
 
+### Missing context
+
+For example, what functions do should be clear from their signature (a reader generally should not need to read
+the entire implementation to understand what the function does). If it's not clear, provide feedback on how to
+add comments to the signature declaration to clarify.
+
 ## What not to focus on
 
 ### I wouldn't have done it that way
